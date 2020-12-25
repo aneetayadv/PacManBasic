@@ -220,7 +220,7 @@ function draw() {
   text("CHARGE:" + batteryCharge,350,height-50);
   pop();
 
-  text(mouseX + "," +mouseY,mouseX,mouseY);
+ // text(mouseX + "," +mouseY,mouseX,mouseY);
 }
 
 function move(){
